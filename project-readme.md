@@ -195,10 +195,13 @@ python 2.py
 **Keypoints:**
 [IMAGE: Images with keypoints highlighted]
 ![keypoints_left](https://github.com/user-attachments/assets/620b3379-0f33-4528-9ba7-801c14797ea9)
+![keypoints_right](https://github.com/user-attachments/assets/b53e5133-a3cc-4bfa-8fa0-fc7726256ec4)
 
 
 **Keypoints matching:**
 [IMAGE: Visualization of matched keypoints between images]
+![image](https://github.com/user-attachments/assets/a70ddc26-31a0-4abc-852a-b30d768e6f6c)
+
 
 
 **Final stitched image:**
