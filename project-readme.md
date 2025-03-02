@@ -63,6 +63,7 @@ python 1.py
 
 **Original input:**
 [IMAGE: Original coin image]
+![coins](https://github.com/user-attachments/assets/02965409-fb4a-4dca-977e-0870ae74ad07)
 
 **Gray:**
 [IMAGE: Grayscale converted image]
