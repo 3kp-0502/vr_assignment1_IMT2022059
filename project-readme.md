@@ -67,24 +67,45 @@ python 1.py
 
 **Gray:**
 [IMAGE: Grayscale converted image]
+![gray](https://github.com/user-attachments/assets/a63944e7-acea-4f33-be2f-d78975abcb75)
+
 
 **Blurred:**
 [IMAGE: Blurred image]
+![blurred](https://github.com/user-attachments/assets/03f9cc6d-429b-4aea-a44b-7784ce3e4787)
+
 
 **Edges:**
 [IMAGE: Edge detection result]
+![edges](https://github.com/user-attachments/assets/3d1f7483-3b36-41d3-a94c-bae33c2f6f51)
+
 
 **Closed:**
 [IMAGE: Closed contours]
+![closed](https://github.com/user-attachments/assets/4950d9cc-0e13-4bb3-af40-950fe6f46216)
+
 
 **Detected coins:**
 [IMAGE: Image with detected coins outlined]
+![detected_coins](https://github.com/user-attachments/assets/494eca3d-d426-4710-8f20-2414e8d4e045)
+
 
 **Segmented coins:**
-[IMAGE: Grid of individual segmented coins]
+[IMAGE: Individual segmented coins]
+![segmented_coin_1](https://github.com/user-attachments/assets/55c44a89-b6c9-4ebf-9be0-8eb636acdb38)
+![segmented_coin_2](https://github.com/user-attachments/assets/23c68fa8-1032-4e29-90b7-c0ff9e2fc3c1)
+![segmented_coin_3](https://github.com/user-attachments/assets/54e06950-fbf6-49b6-9135-fe0339ab40b6)
+![segmented_coin_4](https://github.com/user-attachments/assets/49fdbd0a-ba1a-4e7a-b174-d878e04706e8)
+![segmented_coin_5](https://github.com/user-attachments/assets/982f5965-ff68-4156-aed3-36aad504674f)
+![segmented_coin_6](https://github.com/user-attachments/assets/a7053bb6-60d9-44bb-8b4f-bb287c72e818)
+![segmented_coin_7](https://github.com/user-attachments/assets/9f08ac8b-90d5-4e45-a1e3-b4ab3c5c3abe)
+![segmented_coin_8](https://github.com/user-attachments/assets/50df8edd-9e4b-4da1-871a-b49c5c8c09fd)
+
 
 **Failed results:**
 [IMAGE: Examples of failed detection]
+![image](https://github.com/user-attachments/assets/dc121f3f-acb0-421c-918b-25b59bc31ae8)
+
 
 ### Implementation Comparisons
 
@@ -167,18 +188,28 @@ python 2.py
 
 **Original overlapping images:**
 [IMAGE: Two overlapping input images]
+![left](https://github.com/user-attachments/assets/3627b8a9-c7d7-4b5f-a2b2-6ec2bc04a549)
+![right](https://github.com/user-attachments/assets/8884700b-c0d2-4db9-91e2-b76ad210593e)
+
 
 **Keypoints:**
 [IMAGE: Images with keypoints highlighted]
+![keypoints_left](https://github.com/user-attachments/assets/620b3379-0f33-4528-9ba7-801c14797ea9)
+
 
 **Keypoints matching:**
 [IMAGE: Visualization of matched keypoints between images]
 
+
 **Final stitched image:**
 [IMAGE: Final panorama]
+![panorama](https://github.com/user-attachments/assets/fe8a957c-06d5-4c1f-bd38-8ec72eb8241b)
+
 
 **Failed results:**
 [IMAGE: Examples of failed stitching]
+![image](https://github.com/user-attachments/assets/9f91dee7-d5ad-41ef-831d-dea9c9ea876b)
+
 
 ### Implementation Comparisons
 
